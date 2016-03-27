@@ -685,6 +685,7 @@ table.article_table tr:last-child td:last-child {
 
 /*403エラーメッセージのCSSここから*/
 #error_403{
-	background-color:yellow;
+	background-color:gray;
 }
 /*403エラーメッセージのCSSここまで*/
+
