@@ -688,16 +688,3 @@ table.article_table tr:last-child td:last-child {
 	background-color:yellow;
 }
 /*403エラーメッセージのCSSここまで*/
-
-
-<table class="article_table">
-<tbody>
-<tr>
-<th>お酒の種類</th>
-<th>100mlあたりのカロリー</th>
-</tr>
-<td>ジン</td>
-<td>284キロカロリー</td>
-</tr>
-</tbody>
-</table>
