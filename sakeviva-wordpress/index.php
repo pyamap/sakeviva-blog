@@ -7,12 +7,12 @@
 					<li class="destination_1">
 						<article>
 							<div class="thumbnail_1">
-								<a href="http://sakeviva.com/blog/how_to_drink_sake/">
+								<a href="http://sakeviva.com/blog/variety_of_sake/">
 									<img src="<?php bloginfo('template_url'); ?>/images/variety_of_sake_pic.jpg" width="650" height="435" alt="日本酒の種類の画像" />
 								</a>
 							</div>
 							<div class="text_1">
-								<h1><a href="http://sakeviva.com/blog/variety-of-sake/">日本酒の種類</a></h1>
+								<h1><a href="http://sakeviva.com/blog/variety_of_sake">日本酒の種類</a></h1>
 								<p class="destination_intro_1">
 								有名な日本酒から地方の珍しい地酒まで全国2万種類以上と言われている日本酒の中からおすすめの日本酒をピックアップ。あの有名酒に隠された誕生秘話、こだわりや込められた思い、ネーミングの意味までじっくりと背景を解説していきます。
 								</p>
@@ -36,12 +36,12 @@
 					<li class="destination_3">
 						<article>
 							<div class="thumbnail_3">
-								<a href="http://sakeviva.com/blog/">
-									<img src="<?php bloginfo('template_url'); ?>/images/destination1.jpg" width="244" height="190" alt="日本酒のイベントの画像" />
+								<a href="http://sakeviva.com/blog/sake_events">
+									<img src="<?php bloginfo('template_url'); ?>/images/sake_event_pic.jpg" width="244" height="190" alt="日本酒のイベントの画像" />
 								</a>
 							</div>
 							<div class="text_3">
-								<h2>日本酒のイベント</h2>
+								<h2><a href="http://sakeviva.com/blog/sake_events">日本酒のイベント</a></h2>
 								<p class="destination_intro_3">
 								おいしい日本酒を普段より安く飲みたい。地域の人と皆で酒蔵開きを祝いたい。お酒とおいしい食べ物を一緒に味わいたい。そんな日本酒好きの欲求を掻き立てる日本酒のイベントはこちらから。今日はどのイベントにいきますか？
 								</p>
@@ -52,7 +52,7 @@
 						<article>
 							<div class="thumbnail_4">
 								<a href="http://sakeviva.com/blog/">
-									<img src="<?php bloginfo('template_url'); ?>/images/sake_brewery_pic.jpg" width="244" height="190" alt="日本の酒蔵の画像" />
+									<img src="<?php bloginfo('template_url'); ?>/images/sake_brewery_pic_coming_soon.jpg" width="244" height="190" alt="日本の酒蔵の画像" />
 								</a>
 							</div>
 							<div class="text_4">
@@ -67,7 +67,7 @@
 						<article>
 							<div class="thumbnail_5">
 								<a href="http://sakeviva.com/blog/">
-									<img src="<?php bloginfo('template_url'); ?>/images/destination1.jpg" width="244" height="190" alt="日本酒の飲み方の画像" />
+									<img src="<?php bloginfo('template_url'); ?>/images/best_sake_pic_coming_soon.jpg" width="244" height="190" alt="日本酒の飲み方の画像" />
 								</a>
 							</div>
 							<div class="text_5">
@@ -82,7 +82,7 @@
 						<article>
 							<div class="thumbnail_5">
 								<a href="http://sakeviva.com/blog/">
-									<img src="<?php bloginfo('template_url'); ?>/images/sakekasu_recipe_pic.jpg" width="244" height="190" alt="酒粕レシピの画像" />
+									<img src="<?php bloginfo('template_url'); ?>/images/sakekasu_recipe_pic_coming_soon.jpg" width="244" height="190" alt="酒粕レシピの画像" />
 								</a>
 							</div>
 							<div class="text_5">
